@@ -20,3 +20,7 @@
 [4. Tuberculosis Bacili Identification: A Novel Feature Extraction Approach via Statistical Shape and Color Models](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/Tuberculosis_Bacilli_Identification_A_Novel_Feature_Extraction_Approach_via_Statistical_Shape_and_Color_Models.pdf)
 
 [5. Design and Evaluation of a Wearable Assistive Technology for Hemianopic Stroke Patients](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/design%20and%20evaluation%20of%20a%20wearable%20assistive%20technology%20for%20hemianopic%20stroke%20patients.pdf)
+
+[6. Activity Monitoring Using Smart Glasses: Exploring the Feasibility of Pedometry on Head Mounted Displays](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/BodyNets%202020.pdf)
+
+[7. Analysis of Macular Thickness Deviation Maps for Diagnosis of Glaucoma](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/2021_ISVC_deviationMap.pdf)
