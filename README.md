@@ -10,3 +10,11 @@
 
 ## List of Papers:
 [1. A Lineage tree-based Hidden Markov Model Quantifies Cellular Heterogeneity and Plasticity](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/A%20lineage%20tree%20based%20hidden%20markov%20model.pdf)
+
+[2. Analysis and Modeling of Cancer Drug Response Using Cell Cycle Phase Specific Rate Effects](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/Analysis%20and%20modeling%20of%20cancer%20drug%20response%20using%20cell%20cycle%20phase%20specific%20rate%20effects.pdf)
+
+[3. Systems Approaches to Unicovering the Contribution of Environment-mediated Drug Resistance](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/systems%20approaches%20to%20uncovering%20the%20contribution%20of%20environment%20mediated%20drug%20resisitance.pdf)
+
+[4. Tuberculosis Bacili Identification: A Novel Feature Extraction Approach via Statistical Shape and Color Models](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/Tuberculosis_Bacilli_Identification_A_Novel_Feature_Extraction_Approach_via_Statistical_Shape_and_Color_Models.pdf)
+
+[5. Design and Evaluation of a Wearable Assistive Technology for Hemianopic Stroke Patients](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/design%20and%20evaluation%20of%20a%20wearable%20assistive%20technology%20for%20hemianopic%20stroke%20patients.pdf)
