@@ -1,3 +1,5 @@
+# Farnaz Mohammadi, Ph. D.
+
 ## Education:
 - Ph.D. in Bioengineering: University of California, Los Angeles. 2023 
 - M.Sc. in Bioengineering: University of California, Los Angeles. 2020
