@@ -9,5 +9,4 @@
 - Summer Intern at the Oncology Bioinformatics Department, Genetech Inc: 2022 
 
 ## List of Papers:
-[1. A Lineage tree-based Hidden Markov Model Quantifies Cellular Heterogeneity and Plasticity]
-(https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/A%20lineage%20tree%20based%20hidden%20markov%20model.pdf)
+[1. A Lineage tree-based Hidden Markov Model Quantifies Cellular Heterogeneity and Plasticity](https://github.com/Farnazmdi/farnazmdi.github.io/blob/main/A%20lineage%20tree%20based%20hidden%20markov%20model.pdf)
